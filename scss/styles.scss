@@ -1,0 +1,10 @@
+//MUST FOLLOW BY ORDER
+//IMPORT THE COMPONENTS
+@import './components/variable';
+@import './components/vendors';
+@import './components/mixins';
+@import './components/global';
+@import './components/buttons';
+
+//IMPORT PAGES
+@import './pages/home';
