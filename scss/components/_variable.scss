@@ -1,11 +1,16 @@
 //MY THEME COLORS
-$main-color:        #9926f0;
-$sub-color:         #bb6ef5;
-$main-font-family:  'Poppins', sans-serif;
+html {
+    font-size: 62.5%;
+}
 
-
+$main-color:        #fe696a;
+$sub-color:         #4b566b;
+$main-font-family:  'Rubik', sans-serif;
 
 //CUSTOM BOOTSTRAP
 $primary:           $main-color;
 $secondary:         $sub-color;
 $font-family-base:  $main-font-family;
+$font-size-base:    1.6rem;
+//$body-bg: #000;
+//$body-color: #fff;

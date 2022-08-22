@@ -1,1 +1,15 @@
 //GENERAL STYLE
+
+.carousel {
+    height: calc(100vh - 44px);
+    width: 100%;
+    overflow:hidden;
+}
+.carousel .carousel-inner {
+    height:100%;    
+}
+
+.carousel .carousel-inner img {
+    display:block;
+    object-fit: cover;
+}
